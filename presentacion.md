@@ -31,14 +31,14 @@ demostrar el flujo de trabajo básico con Git y GitHub.
 git status
 git add
 git commit -m "Mensaje commit"
-git push origin main````
+git push origin main```
 
 # Instruciones de intalacion y uso de Markdown y Git Bash
 
 ### Instalación Markdwon en Git Bash
 1. Clonar el repositorio desde GitHub:
 ```bash 
-git clone https://github.com/PUJ-POO-20252/crear-documento-markdown-pablobuenoceron29-debug.git````
+git clone https://github.com/PUJ-POO-20252/crear-documento-markdown-pablobuenoceron29-debug.git```
 
 ## Como contribuye el uso de Markdown 
 

@@ -58,10 +58,25 @@ estudiante de 2 semestre de la **Potificia Universidad Javeriana** soy alguien q
 uso de herramientas inteligentes "IA" o tecnologías realidad aumentada, y aficionada a todo lo que tenga que ver con la *computer security*
 con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
 
-### Playlist
+## Playlist
 
 Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuando estudio 👾
 
-[Música de ABBA](https://youtu.be/92cwKCU8Z5c?si=C4_sYcJFLTy4U7rm)
-[Música de Bilie](https://youtu.be/V9PVRfjEBTI?si=zIEGg9q8-7ZCJ76G)
-[Música de Lana](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU) 
+### ABBA - The Winner
+
+[Ver video](https://youtu.be/92cwKCU8Z5c?si=C4_sYcJFLTy4U7rm)
+[ABBA](https://es.wikipedia.org/wiki/ABBA)
+
+---
+
+### Bilie Eilish - BIRDS OF A FEATHER
+ 
+[Ver video](https://youtu.be/V9PVRfjEBTI?si=zIEGg9q8-7ZCJ76G)
+[Bilie Eilish](https://www.deezer.com/mx/track/2801558052)
+
+---
+
+### Lana Del Rey - Summertime Sadness
+
+[Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
+[Lana Del Rey](https://www.deezer.com/us/album/272204582) 

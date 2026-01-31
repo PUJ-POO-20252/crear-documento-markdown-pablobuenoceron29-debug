@@ -79,4 +79,5 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 ### Lana Del Rey - Summertime Sadness
 
 [Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
-[Lana Del Rey](https://www.deezer.com/us/album/272204582) 
+[Lana Del Rey](https://cdn-images.dzcdn.net/images/cover/a4c9b0be3cf7c4f6258be080ef54993d/0x1900-000000-80-0-0.jpg)](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
+ 

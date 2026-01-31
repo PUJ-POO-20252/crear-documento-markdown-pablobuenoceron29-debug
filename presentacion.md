@@ -65,19 +65,16 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 ### ABBA - The Winner
 
 [Ver video](https://youtu.be/92cwKCU8Z5c?si=C4_sYcJFLTy4U7rm)
-[ABBA](https://es.wikipedia.org/wiki/ABBA)
 
 ---
 
 ### Bilie Eilish - BIRDS OF A FEATHER
  
 [Ver video](https://youtu.be/V9PVRfjEBTI?si=zIEGg9q8-7ZCJ76G)
-[Bilie Eilish](https://www.deezer.com/mx/track/2801558052)
 
 ---
 
 ### Lana Del Rey - Summertime Sadness
 
 [Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
-[Lana Del Rey](https://cdn-images.dzcdn.net/images/cover/a4c9b0be3cf7c4f6258be080ef54993d/0x1900-000000-80-0-0.jpg)](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
  

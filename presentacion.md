@@ -16,3 +16,13 @@ demostrar el flujo de trabajo básico con Git y GitHub.
 2. Creación de este archivo 'presentacion.md'.
 
 3. Conexión con GitHub.
+
+## Herramientas Utilizadas
+
+| Herramientas | Uso |
+|--------------|-----|
+| Git Bash| Control de versiones|
+| GitHub | Repositorio remoto |
+| Maekdown | Documentación |
+
+

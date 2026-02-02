@@ -2,7 +2,9 @@ Markdown
 
 # Presentación del Proyecto 👽 
 
-**Autor:** [Pablo Andrés Bueno Cerón]                                ![Animación](4.gif)
+**Autor:** [Pablo Andrés Bueno Cerón]
+
+![Animación](4.gif)
 
 ## Descripción
 

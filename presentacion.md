@@ -126,3 +126,9 @@ Asimismo, busco fortalecer mi pensamiento como ingeniero de sistemas al momento 
 - [ ] Saber desarrollar un juego en C++.
 - [ ] Aprender sobre videojuegos (especialmente Minecraft).
 - [ ] Aprender a programar fórmulas matemáticas.
+
+---
+
+### Muchas gracias por haber revisado mi presentación.
+
+![Animación](cat2.gif)

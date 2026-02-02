@@ -13,7 +13,7 @@ demostrar el flujo de trabajo básico con Git y GitHub.
 
 1. Creación del repositorio local.
 
-2. Creación de este archivo 'presentacion.md'.
+2. Creación de este archivo ``presentacion.md``.
 
 3. Conexión con GitHub.
 

@@ -26,7 +26,7 @@ demostrar el flujo de trabajo básico con Git y GitHub.
 | Maekdown | Documentación |
 
 ## Code
-```bash
+``` javascript
 # Comandos usados en Git Bash 
 git status
 git add

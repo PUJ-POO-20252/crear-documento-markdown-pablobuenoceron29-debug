@@ -53,6 +53,8 @@ y la facilidad de uso del repositorio para cualquier persona que lo consulte.
 
 # Bigiofia personal 😼
 
+![Animación](cat.gif)
+
 Me presento mi nombre es **Pablo Andrés Bueno Cerón** estudiante de Ingeneria Sistemas y Computación, tengo 20 años de edad
 estudiante de 2 semestre de la **Potificia Universidad Javeriana** soy alguien que le aposiona las tecnologías emergentes como el
 uso de herramientas inteligentes "IA" o tecnologías realidad aumentada, y aficionada a todo lo que tenga que ver con la *computer security*

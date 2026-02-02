@@ -89,3 +89,40 @@ con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
 [Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
 
 ![Imagen](lana.jpg)
+
+---
+
+# Información extra
+
+- [] Problemas que hubo durante el proceso de elaboración del trabajo en Markdown 😛.
+
+| Problemas Técnicos | Solución |
+|--------------------|----------|
+| No entendía bien las instrucciones. | Uso de las diapositivas y herramientas de IA para comprender correctamente el trabajo. |
+| No recordaba los comandos de Git Bash. | Uso de herramientas de IA para saber qué comandos de Git Bash utilizar y apoyo de compañeros. |
+| No comprendía cómo funcionaba la nomenclatura de Markdown. | Uso de las diapositivas disponibles y ayuda de compañeros. |
+| Problemas técnicos relacionados con la conexión a internet de mi hogar. | Uso del pensamiento ingenieril para buscar soluciones, como ir a la casa de una tía. |
+| Inconvenientes al agregar imágenes en Git. | Apoyo de mi compañero Dylan y aprovechamiento de la noche, cuando trabajamos mejor. |
+| La presentación markdown no se veia en le GitHud. | Uso de herramientas de IA para identificar el problema y de los comandos ``git reset`` y ``git log``. |
+| Problemas en el código Markdown que causaban inconvenientes en GitHub. | Uso de ``git log`` y pruebas hasta lograr que funcionara correctamente. |
+
+---
+
+## Intereses personales 
+
+Mis intereses personales se centran en la tecnología y en todo lo relacionado con la *computer security*. Busco aprender constantemente nuevas cosas que me permitan mejorar mis habilidades en el uso de la tecnología, así como fortalecer la ética del ingeniero y el buen uso de las herramientas aprendidas.
+
+Procuro no abusar de manera sistemática de las herramientas de IA, sino utilizarlas de forma responsable como apoyo al aprendizaje. Me interesa mejorar en los aspectos relacionados con la programación, aprender nuevos lenguajes de programación y desarrollar proyectos interesantes que potencien mis habilidades actuales.
+
+Asimismo, busco fortalecer mi pensamiento como ingeniero de sistemas al momento de resolver problemas complejos que tengan un impacto positivo en la vida cotidiana. Finalmente, uno de mis objetivos principales es aprender a programar fórmulas matemáticas.
+
+---
+
+## Intereses 👾
+
+- [ ] Computer security (seguridad informática).
+- [ ] Programar mejor en Python.
+- [ ] Aprender PHP.
+- [ ] Saber desarrollar un juego en C++.
+- [ ] Aprender sobre videojuegos (especialmente Minecraft).
+- [ ] Aprender a programar fórmulas matemáticas.

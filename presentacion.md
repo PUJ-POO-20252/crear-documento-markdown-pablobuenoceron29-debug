@@ -68,7 +68,7 @@ con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
 
 - [ ] Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuando estudio 👾
 
-### ABBA - The Winner
+### ABBA - The Winner Takes It All
 
 [Ver video](https://youtu.be/92cwKCU8Z5c?si=C4_sYcJFLTy4U7rm)
 

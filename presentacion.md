@@ -8,8 +8,8 @@ Markdown
 
 ## Descripción
 
-Este es el repositorio para la Tarea 1 del curso. El objetivo es 
-demostrar el flujo de trabajo básico con Git y GitHub.
+- [x] Este es el repositorio para la Tarea 1 del curso. El objetivo es 
+      demostrar el flujo de trabajo básico con Git y GitHub.
 
 ## Pasos Realizados
 
@@ -66,7 +66,7 @@ con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
 
 ## Playlist
 
-Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuando estudio 👾
+- [ ] Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuando estudio 👾
 
 ### ABBA - The Winner
 

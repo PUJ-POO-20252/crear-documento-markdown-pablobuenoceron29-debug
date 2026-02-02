@@ -94,7 +94,7 @@ con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
 
 # Información extra
 
-- [] Problemas que hubo durante el proceso de elaboración del trabajo en Markdown 😛.
+- [ ] Problemas que hubo durante el proceso de elaboración del trabajo en Markdown 😛.
 
 | Problemas Técnicos | Solución |
 |--------------------|----------|

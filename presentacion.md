@@ -55,7 +55,7 @@ del trabajo realizando. En el contexto de **GitHub, Markdown** ayuda a documenta
 de manera clara y accesible, lo que mejora la compresión del codigo, la colaboración entre desarrolladores
 y la facilidad de uso del repositorio para cualquier persona que lo consulte.
 
-# Bigiofia personal 😼
+# Biografia personal 😼
 
 Me presento mi nombre es **Pablo Andrés Bueno Cerón** estudiante de Ingeneria Sistemas y Computación, tengo 20 años de edad
 estudiante de 2 semestre de la **Potificia Universidad Javeriana** soy alguien que le aposiona las tecnologías emergentes como el

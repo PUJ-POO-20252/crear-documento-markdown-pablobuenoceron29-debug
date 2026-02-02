@@ -80,7 +80,7 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
  
 [Ver video](https://youtu.be/V9PVRfjEBTI?si=zIEGg9q8-7ZCJ76G)
 
-![Imagen](git2.jpg)
+![Imagen](git2(1).jpg)
 
 ---
 
@@ -88,4 +88,4 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 
 [Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
 
-![Imagen](git3.jpg)
+![Imagen](lana-del-rey-summertime-sadness.webp.jpg)

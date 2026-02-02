@@ -34,6 +34,8 @@ git commit -m "Mensaje commit"
 git push origin main
 ```
 
+![Animación](cat3.gif)
+
 # Instruciones de intalacion y uso de Markdown y Git Bash
 
 ### Instalación Markdwon en Git Bash
@@ -53,12 +55,12 @@ y la facilidad de uso del repositorio para cualquier persona que lo consulte.
 
 # Bigiofia personal 😼
 
-![Animación](cat.gif)
-
 Me presento mi nombre es **Pablo Andrés Bueno Cerón** estudiante de Ingeneria Sistemas y Computación, tengo 20 años de edad
 estudiante de 2 semestre de la **Potificia Universidad Javeriana** soy alguien que le aposiona las tecnologías emergentes como el
 uso de herramientas inteligentes "IA" o tecnologías realidad aumentada, y aficionada a todo lo que tenga que ver con la *computer security*
 con casos relacionados como: Caso Pegaus, Caso de Edward Snowden, en otros.
+
+![Animación](cat.gif)
 
 ## Playlist
 
@@ -67,6 +69,7 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 ### ABBA - The Winner
 
 [Ver video](https://youtu.be/92cwKCU8Z5c?si=C4_sYcJFLTy4U7rm)
+
 ![Imagen](git1.webp)
 
 ---
@@ -74,6 +77,7 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 ### Bilie Eilish - BIRDS OF A FEATHER
  
 [Ver video](https://youtu.be/V9PVRfjEBTI?si=zIEGg9q8-7ZCJ76G)
+
 ![Imagen](git2.jpg)
 
 ---
@@ -81,4 +85,5 @@ Aquí hay una Playlist pequeña de algunas canciónes que me gusta escuchar cuan
 ### Lana Del Rey - Summertime Sadness
 
 [Ver video](https://youtu.be/TdrL3QxjyVw?si=hwiWTl_nvAvR95MU)
+
 ![Imagen](git3.jpg)
